@@ -4,7 +4,7 @@
 
 # Here’s a professional summary of my project "Dataset Generation":
 
-# This project focuses on generating a custom dataset comprising facial images of six individuals, each annotated with five key attributes: hair color, hair length, gender, presence of glasses, and presence of a hat. 
+# This project focuses on generating a custom dataset comprising facial images of six individuals, each annotated with five key attributes: black hair color present, mustache, gender, presence of glasses, and presence of a beard. 
 
 # The dataset includes 2,559 images captured with varied orientations, lighting conditions, and poses, incorporating data augmentation techniques such as Gaussian blur and horizontal flipping to enhance model generalization.
 
